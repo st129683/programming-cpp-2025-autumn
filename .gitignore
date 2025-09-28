@@ -1,0 +1,32 @@
+# Directories
+build/
+cmake-build-*/
+.idea/
+.vscode/
+
+# Compiled files
+*.sh
+*.a
+*.o
+*.out
+*.exe
+*.so
+*.dylib
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Backup files
+*~
+*.swp
+*.swo
+
+# macOS specific
+.DS_Store
