@@ -31,3 +31,7 @@ jobs:
         find . -type f -executable -name "rpn_calculator" -exec {} \;
         find . -type f -executable -name "text_editor" -exec {} \;
         find . -type f -executable -name "bank_class" -exec {} \;
+        find . -type f -executable -name "substring_proxy" -exec {} \;
+        find . -type f -executable -name "text_editor_gtest" -exec {} \;
+        find . -type f -executable -name "bank_class_gtest" -exec {} \;
+        find . -type f -executable -name "template_array" -exec {} \;
